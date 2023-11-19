@@ -13,6 +13,12 @@
 /.next/
 /out/
 
+# Cypress generated files and folders
+src/tests/e2e/videos/
+src/tests/e2e/screenshots/
+src/tests/e2e/results/
+src/tests/e2e/report/
+
 # production
 /build
 
